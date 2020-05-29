@@ -10,9 +10,9 @@
 [image1]: ./examples/cnn_architecture.png "Model Visualization"
 [image2]: ./examples/Figure.png "figure1"
 [image3]: ./examples/Figure_1.png "figure2"
-[image3]: ./examples/center.jpg "center"
-[image3]: ./examples/left.jpg "left"
-[image3]: ./examples/right.jpg "right"
+[image4]: ./examples/center.jpg "center"
+[image5]: ./examples/left.jpg "left"
+[image6]: ./examples/right.jpg "right"
 
 
 ## Rubric Points
@@ -89,8 +89,14 @@ of six images:
 6. Right camera image flipped horizontally
 
 Here are some training images:
+
 ![alt text][image4]
+
+
 ![alt text][image5]
+
+
+
 ![alt text][image6]
 
 The model was then tested on the track to ensure that the model was performing as expected.
